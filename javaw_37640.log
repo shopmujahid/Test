@@ -1,0 +1,9 @@
+---
+VM version: Jun  6 2018 11:37:08 - 81_REL - optU - windows amd64 - 6 - bas2:307213 (mixed mode)
+
+Time:2019-12-2815:45:56
+Pid: 37640
+Hostname: USHYDMOMUJAHI8
+current dir: C:\Users\momujahid\hdbstudio\Assingment
+---
+   :    [28872] 15:45:56 ***ERROR (:0): Java assert: "expected [List Item 2 6] but found [List Item 3 9]" in org.testng.Assert.fail(Assert.java:93)

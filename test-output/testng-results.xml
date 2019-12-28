@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="180483" started-at="2019-12-28T14:13:54Z" finished-at="2019-12-28T14:16:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="180483" started-at="2019-12-28T14:13:54Z" finished-at="2019-12-28T14:16:54Z">
+      <class name="com.qa.testcases.IndexPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="setup" is-config="true" duration-ms="26527" started-at="2019-12-28T19:43:54Z" finished-at="2019-12-28T19:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="indexPageTest1()[pri:0, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="indexPageTest1" duration-ms="622" started-at="2019-12-28T19:44:20Z" finished-at="2019-12-28T19:44:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indexPageTest1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="tearDown" is-config="true" duration-ms="1349" started-at="2019-12-28T19:44:21Z" finished-at="2019-12-28T19:44:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="setup" is-config="true" duration-ms="26294" started-at="2019-12-28T19:44:22Z" finished-at="2019-12-28T19:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="indexPageTest2()[pri:1, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="indexPageTest2" duration-ms="133" started-at="2019-12-28T19:44:49Z" finished-at="2019-12-28T19:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indexPageTest2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="tearDown" is-config="true" duration-ms="1537" started-at="2019-12-28T19:44:49Z" finished-at="2019-12-28T19:44:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="setup" is-config="true" duration-ms="31245" started-at="2019-12-28T19:44:50Z" finished-at="2019-12-28T19:45:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="indexPageTest3()[pri:2, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="indexPageTest3" duration-ms="863" started-at="2019-12-28T19:45:21Z" finished-at="2019-12-28T19:45:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indexPageTest3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="tearDown" is-config="true" duration-ms="1632" started-at="2019-12-28T19:45:22Z" finished-at="2019-12-28T19:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="setup" is-config="true" duration-ms="32375" started-at="2019-12-28T19:45:24Z" finished-at="2019-12-28T19:45:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="indexPageTest4()[pri:3, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="indexPageTest4" duration-ms="77" started-at="2019-12-28T19:45:56Z" finished-at="2019-12-28T19:45:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indexPageTest4 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="tearDown" is-config="true" duration-ms="1495" started-at="2019-12-28T19:45:56Z" finished-at="2019-12-28T19:45:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="setup" is-config="true" duration-ms="26743" started-at="2019-12-28T19:45:58Z" finished-at="2019-12-28T19:46:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="indexPageTest5()[pri:4, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="indexPageTest5" duration-ms="1669" started-at="2019-12-28T19:46:25Z" finished-at="2019-12-28T19:46:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indexPageTest5 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="tearDown" is-config="true" duration-ms="1505" started-at="2019-12-28T19:46:26Z" finished-at="2019-12-28T19:46:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="setup" is-config="true" duration-ms="24545" started-at="2019-12-28T19:46:28Z" finished-at="2019-12-28T19:46:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="indexPageTest6()[pri:5, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="indexPageTest6" duration-ms="170" started-at="2019-12-28T19:46:52Z" finished-at="2019-12-28T19:46:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indexPageTest6 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.IndexPageTest@67a20f67]" name="tearDown" is-config="true" duration-ms="1644" started-at="2019-12-28T19:46:53Z" finished-at="2019-12-28T19:46:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.IndexPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
